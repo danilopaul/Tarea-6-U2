@@ -760,6 +760,7 @@ Un capacitor puede ser lo suficiente grande al ser conectado desde un punto de p
 
 4.Video:
 
+
 5. Conclusiones:
 
 Un voltaje seno es aquel, que cambia de polaridad con cierta rapidez, por lo cual una de las ondas repetitivas más común y fundamental es la onda seno de tipo periódica, su importancia radica en el análisis de circuitos de corriente alterna además de que incluyen a las ondas de pulso, triangular y la de diente de sierra, para visualizar estas ondas se hará uso de un instrumento de medición denominada osciloscopio, la cual permite examinar a los fasores para representar las ondas seno.
@@ -770,47 +771,4 @@ Con la ayuda de las leyes fundamentales como las de Ohm y Kirchhoff, nos permite
 
 6.Blibliografia:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación
