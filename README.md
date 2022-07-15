@@ -760,6 +760,7 @@ Un capacitor puede ser lo suficiente grande al ser conectado desde un punto de p
 
 4.Video:
 
+https://youtu.be/7sXVHF5Q-qY
 
 5. Conclusiones:
 
