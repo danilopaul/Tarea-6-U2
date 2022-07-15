@@ -580,6 +580,208 @@ Q_T=C_T*V=(5µF)(10V)=50µC
 
 V=(50µC)/(5µF)=10V
 
+30. Determine la constante de tiempo para cada una de las combinaciones en serie:
+
+a. R = 100 Ω, C = 1 µF
+
+ꚍ =RC = (100 Ω)(1*10^-6F)=0.0001 s
+
+b. R = 10 MΩ, C = 47 pF
+
+ꚍ =RC = (10*10^6Ω)(4.7*10^-11F)=0.0004 s
+
+c. R = 4.7 kΩ, C = 0.0047 µF
+
+ꚍ =RC = (4700 Ω)(4.7*10^-9F)=0.00002 s
+
+d. R = 1.5 MΩ, C = 0.01 µF
+
+32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
+
+![image](https://user-images.githubusercontent.com/105687375/179156149-1fe17ed4-94da-48f0-895b-94c420e3a7e7.png)
+
+Formula 
+ 
+a.10µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(10 µs /10 µs) =(10V)e^-1 =(10V)(0.367)=5.505 V
+
+b.20µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(20µs /10 µs) =(10V)e^-2 =(10V)(0.1353)=1.353 V
+
+c.30µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(30µs /10 µs) =(10V)e^-3 =(10V)(0.0497)=0.497 V
+
+d.40µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(40 µs /10 µs) =(10V)e^-4 =(10V)(0.0183)=0.183 V
+
+e.50µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(50 µs /10 µs) =(10V)e^-5 =(10V)(0.006)=0.06 V
+
+34. Repita el problema 32 con los siguientes intervalos de tiempo:
+
+a.2µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(2 µs /10 µs) =(10V)e^-(0.2) =(10V)(0.818)=8.18 V
+
+b.5µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(5µs /10 µs) =(10V)e^-(0.5) =(10V)(1.648)=16.48 V
+
+c.15µs 
+
+RC=(10kΩ)(0.001 µF)=10 µs
+
+vc=(10V)e^-(15µs /10 µs) =(10V)e^-(1.5) =(10V)(0.223)=2.23 V
+
+36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
+
+![image](https://user-images.githubusercontent.com/105687375/179156256-6371f538-e36c-46bf-a98f-475bcf9717c9.png)
+
+![image](https://user-images.githubusercontent.com/105687375/179156312-4a102d6e-5a7b-4345-b58b-e9991c492bc8.png)
+
+38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
+
+![image](https://user-images.githubusercontent.com/105687375/179156374-3c9e0298-cff2-4b0c-8e89-ad0502257507.png)
+
+40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t  10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R
+
+![image](https://user-images.githubusercontent.com/105687375/179156472-8df7e989-3dd1-44aa-9d4a-c50bbef6dfd4.png)
+
+42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![image](https://user-images.githubusercontent.com/105687375/179156686-f7f4211c-6d12-4cc2-83fc-946b3efb02f4.png)
+
+![image](https://user-images.githubusercontent.com/105687375/179156717-dd148134-4ef0-425e-8ad4-9e312a532504.png)
+
+![image](https://user-images.githubusercontent.com/105687375/179156749-306fac35-a65e-40e7-a2fd-36287a39ff5b.png)
+
+44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? 
+
+a.
+
+f=1/2πCXc
+
+f= 1/2π(100)(4.7*10^-11)
+
+f= 4.7*10^-9 Hz
+
+b.
+
+f=1/2πCXc
+
+f= 1/2π(100)(2.5*10-5)
+
+f= 63.66 Hz
+
+c.
+
+f=1/2πCXc
+
+f= 1/2π(100)( 5*10^-7F)
+
+f= 3120.68 Hz
+
+46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 mF, y se mide una corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
+
+I= V/Xc
+
+V=I/Xc
+
+V=(1mA)/2 π (10000)(4.7*10-9)
+
+V=3386275.39 V
+
+48. Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
+
+![image](https://user-images.githubusercontent.com/105687375/179156860-db4c4041-137e-494a-88d1-b6fdb0916640.png)
+
+CT=0.007 µF
+
+IT=758 *10^6 A
+
+V1=(0.007 µF)(10v)/(0.01 µF)
+
+V1=7 V
+
+V2=(0.007 µF)(10V)/(0.022 µF)
+
+V2=3.18 V
+
+V3=(0.007 µF)(10V)/(0.015 µF)
+
+V3=4.66 V
+
+V4=(0.007 µF)(10V)/(0.047 µF)
+
+V4=1.49 V
+
+V5eq=(0.007 µF)(10V)/(0.006 µF)
+
+V5eq=11.67 V
+
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores
+
+![image](https://user-images.githubusercontent.com/105687375/179156943-b53375b5-927e-4ebf-bdd4-41d8f90e82f6.png)
+
+V1=(0.007 µF)(10v)/(0.01 µF)
+
+V1=7 V
+
+V2=(0.007 µF)(10V)/(0.022 µF)
+
+V2=3.18 V
+
+V3eq=(0.007 µF)(10V)/(0.026 µF)
+
+V3eq=2.69 V
+
+52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
+
+Un capacitor puede ser lo suficiente grande al ser conectado desde un punto de polarización hacia tierra lo cual produce una trayectoria de baja reactancia en voltajes ca y deja el voltaje de polarización de cd c en constante en el punto dado. Entonces la frecuencia como es baja el capacitor de desvió pierde eficiencia debido a que la reactancia incrementa.
+
+4.Video:
+
+5. Conclusiones:
+
+Un voltaje seno es aquel, que cambia de polaridad con cierta rapidez, por lo cual una de las ondas repetitivas más común y fundamental es la onda seno de tipo periódica, su importancia radica en el análisis de circuitos de corriente alterna además de que incluyen a las ondas de pulso, triangular y la de diente de sierra, para visualizar estas ondas se hará uso de un instrumento de medición denominada osciloscopio, la cual permite examinar a los fasores para representar las ondas seno.
+
+En cuanto a los capacitores, este se puede definir como dispositivo eléctrico que puede guardar carga eléctrica, por lo cual este es capaz de crear un campo eléctrico que, a su vez, guarda energía, los tipos y aplicaciones de estos, dependerán de las necesidades de y requerimientos del proyecto.
+
+Con la ayuda de las leyes fundamentales como las de Ohm y Kirchhoff, nos permiten obtener fórmulas que relaciones los datos que desconocemos de un problema planteado para resolverlo de manera más adecuada, como es el caso del cálculo de la carga, el voltaje ya sea en serie o en paralelo de un capacitor, además de su capacitancia.
+
+6.Blibliografia:
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
